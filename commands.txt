@@ -1,0 +1,8 @@
+npm init
+npm i express
+touch index.js
+node index.js
+
+
+---------
+https://www.sitepoint.com/create-new-express-js-apps-with-express-generator/
